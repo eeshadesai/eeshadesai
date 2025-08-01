@@ -13,6 +13,6 @@ I've gained hands-on experience through internships at Morgan Stanley and Google
 - **Tools and Frameworks:** Git, Visual Studio Code, Angular, Jupyter Notebooks, Google Colab
 
 📫**Connect with me!**
--**Email:** eesha.desai@rutgers.edu, ecdesai3@gmail.com
--**Linkedin:** www.linkedin.com/in/eeshadesai3
+- **Email:** eesha.desai@rutgers.edu, ecdesai3@gmail.com
+- **Linkedin:** www.linkedin.com/in/eeshadesai3
 
